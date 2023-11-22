@@ -1,0 +1,1 @@
+# maven-multi-module-template
